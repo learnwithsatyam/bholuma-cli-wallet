@@ -1,4 +1,4 @@
-# 🔐 Solana Wallet CLI Tool
+# 🔐 Bholuma CLI Wallet for Solana
 
 A beginner-friendly, easy-to-use command-line tool to interact with the **Solana blockchain**. This CLI wallet allows you to create a wallet, check your balance, airdrop test SOL, send SOL, and fetch account info — all from your terminal!
 
